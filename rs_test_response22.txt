@@ -1,0 +1,418 @@
+{
+    "talentDetails": {
+        "birthday": "1990-12-21",
+        "email": "ewa@gg.uu",
+        "name": {
+            "givenName": "Ewa",
+            "preferredName": null,
+            "middleName": "Michelle",
+            "familyName": "Sciuba",
+            "suffix": null,
+            "prefix": "M"
+        },
+        "talentLocations": [
+            {
+                "isCurrent": null,
+                "startDate": "2021-01-15",
+                "endDate": null,
+                "usage": "Value unspecified",
+                "updateTime": "2021-10-14 17:36:49 UTC",
+                "address": {
+                    "regionCode": "IN",
+                    "languageCode": null,
+                    "postalCode": 41523,
+                    "sortingCode": null,
+                    "administrativeArea": "IN-AP",
+                    "locality": "Peta",
+                    "sublocality": "",
+                    "addressLineOne": " venkateshwarla",
+                    "addressLineTwo": null,
+                    "derivedLocation": {
+                        "locationType": null,
+                        "postalAddress": null,
+                        "radiusMiles": null,
+                        "latLng": {
+                            "latitude": null,
+                            "longitude": null
+                        }
+                    }
+                }
+            }
+        ],
+        "emailAddresses": [
+            {
+                "isPrimary": null,
+                "isActive": null,
+                "usage": null,
+                "emailAddress": null
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "isPrimary": null,
+                "isActive": null,
+                "usage": null,
+                "number": null,
+                "type": null,
+                "extension": null
+            }
+        ],
+        "urls": [
+            {
+                "site": "Linkedin",
+                "value": "http://linkedin.com/ewa",
+                "notes": null
+            }
+        ]
+    },
+    "talentProfile": {
+        "qualificationSummary": "Skills:     *      Possesses 8+ years of loan servicing experience as a Mortgage Loan Specialist/Loan Opener,       Loan Processor, and Loan Auditor.     *      Strong customer service skills.     *      Well versed with FHA/VA/Conventional loans.     *      Results-driven, highly motived and well organized.",
+        "citizenships": [],
+        "workAuthorizations": [],
+        "employeeTypes": ["", "", ""],
+        "resumes": [
+            {
+                "text": "Dr Ewa (Eve) Michelle Sciuba III Address: venkateshwarla peta, Proddatur, Andhra Pradesh, India, 516360 Birthday - 20-11-75 Website - https://linkedin.com/ewa  Skills     *      Possesses 8+ years of loan servicing experience as a Mortgage Loan Specialist/Loan Opener,       Loan Processor, and Loan Auditor.     *      Strong customer service skills.     *      Well versed with FHA/VA/Conventional loans.     *      Results-driven, highly motived and well organized.  Hobbies     *      Swimming     *      Tennis     *      Motorcycling  Organizations     *      Women in Technology     *      Wounded Warrior project     *      Feed America  Experience  Infosys Limited Mangalore, Karnataka, India 878928 Systems Analyst 06/2006 till current     *      Responsible for creating Affidavits for various states for recording purposes on approved loan    modifications.    *      Reviewed and verified accuracy of loan modification documents to properly complete Affidavits    according to each state.    *      Collaborated with Research Team on missing and not recorded documents such as requesting AOM`s,    and titles showing proper record of ownership.     *      Resolving issues on existing or rejected Affidavits, as well as auditing submitted Affidavits       to counties.     *      Proficient with Share Point, Iportal, FileNet, Fastrieve, LAMP, HRS, ULS (Urban) Ernst and       Counties websites.     *      Substantially improved volume of rejected Affidavits.     Education  Leiden University College Anna van Bueren plein 301, 2595 DG The Hague, The Netherlands Bachelors in Mechanical Engineering 06/2002 till 04/2006       x     *      Associate of Arts degree, Communication.     *      Quality Education System, certificate program.",
+                "type": "Doc",
+                "url": null,
+                "createTime": "2021-10-14 17:36:49 UTC"
+            }
+        ],
+        "employmentRecords": [
+            {
+                "startDate": "2006-06-01",
+                "endDate": "2010-11-01",
+                "isCurrent": true,
+                "employerName": "Infosys Limited",
+                "jobTitle": "Systems Analyst",
+                "jobDescription": "*      Responsible for creating Affidavits for various states for recording purposes on approved loan modifications. *      Reviewed and verified accuracy of loan modification documents to properly complete Affidavits according to each state. *      Collaborated with Research Team on missing and not recorded documents such as requesting AOM`s, and titles showing proper record of ownership.  *      Resolving issues on existing or rejected Affidavits, as well as auditing submitted Affidavits    to counties.  *      Proficient with Share Point, Iportal, FileNet, Fastrieve, LAMP, HRS, ULS (Urban) Ernst and    Counties websites.  *      Substantially improved volume of rejected Affidavits.",
+                "randstadNormalizedTitle": {
+                    "id": null,
+                    "family": null
+                },
+                "address": {
+                    "regionCode": "IN",
+                    "languageCode": null,
+                    "postalCode": null,
+                    "sortingCode": null,
+                    "administrativeArea": null,
+                    "locality": "Mangalore",
+                    "sublocality": null,
+                    "addressLineOne": null,
+                    "addressLineTwo": null,
+                    "derivedLocation": {
+                        "locationType": null,
+                        "postalAddress": null,
+                        "radiusMiles": null,
+                        "latLng": {
+                            "latitude": null,
+                            "longitude": null
+                        }
+                    }
+                }
+            },
+            {
+                 "startDate": "2010-11-01",
+                 "endDate": "2013-09-01",
+                 "isCurrent": true,
+                 "employerName": "StartSolution Limited",
+                 "jobTitle": "Systems Analyst",
+                 "jobDescription": "*      Responsible for creating Affidavits for various states for recording purposes on approved loan modifications. *      Reviewed and verified accuracy of loan modification documents to properly complete Affidavits according to each state. *      Collaborated with Research Team on missing and not recorded documents such as requesting AOM`s, and titles showing proper record of ownership.  *      Resolving issues on existing or rejected Affidavits, as well as auditing submitted Affidavits    to counties.  *      Proficient with Share Point, Iportal, FileNet, Fastrieve, LAMP, HRS, ULS (Urban) Ernst and    Counties websites.  *      Substantially improved volume of rejected Affidavits.",
+                 "randstadNormalizedTitle": {
+                     "id": null,
+                     "family": null
+                 },
+                 "address": {
+                     "regionCode": "IN",
+                     "languageCode": null,
+                     "postalCode": null,
+                     "sortingCode": null,
+                     "administrativeArea": null,
+                     "locality": "Banladah",
+                     "sublocality": null,
+                     "addressLineOne": null,
+                     "addressLineTwo": null,
+                     "derivedLocation": {
+                         "locationType": null,
+                         "postalAddress": null,
+                         "radiusMiles": null,
+                         "latLng": {
+                             "latitude": null,
+                             "longitude": null
+                         }
+                     }
+                 }
+             },
+             {
+                 "startDate": "2013-10-01",
+                 "endDate": "2019-00-01",
+                 "isCurrent": true,
+                 "employerName": "Microsoft Inc",
+                 "jobTitle": "Lead Systems Analyst",
+                 "jobDescription": "*      Responsible for creating Affidavits for various states for recording purposes on approved loan modifications. *      Reviewed and verified accuracy of loan modification documents to properly complete Affidavits according to each state. *      Collaborated with Research Team on missing and not recorded documents such as requesting AOM`s, and titles showing proper record of ownership.  *      Resolving issues on existing or rejected Affidavits, as well as auditing submitted Affidavits    to counties.  *      Proficient with Share Point, Iportal, FileNet, Fastrieve, LAMP, HRS, ULS (Urban) Ernst and    Counties websites.  *      Substantially improved volume of rejected Affidavits.",
+                 "randstadNormalizedTitle": {
+                     "id": null,
+                     "family": null
+                 },
+                 "address": {
+                     "regionCode": "IN",
+                     "languageCode": null,
+                     "postalCode": null,
+                     "sortingCode": null,
+                     "administrativeArea": null,
+                     "locality": "Hyderabad",
+                     "sublocality": null,
+                     "addressLineOne": null,
+                     "addressLineTwo": null,
+                     "derivedLocation": {
+                         "locationType": null,
+                         "postalAddress": null,
+                         "radiusMiles": null,
+                         "latLng": {
+                             "latitude": null,
+                             "longitude": null
+                         }
+                     }
+                 }
+             }
+        ],
+        "educationRecords": [
+            {
+                "startDate": "2002-06-01",
+                "endDate": "2006-04-30",
+                "schoolName": "Leiden University College Anna van Bueren plein 301, 2595 DG The Hague, The Netherlands",
+                "description": null,
+                "degree": {
+                    "type": "Bachelors or equivalent",
+                    "name": "Bachelors in Mechanical Engineering",
+                    "fieldsOfStudy": []
+                },
+                "address": {
+                    "regionCode": "NL",
+                    "languageCode": null,
+                    "postalCode": null,
+                    "sortingCode": null,
+                    "administrativeArea": null,
+                    "locality": "The Hague",
+                    "sublocality": null,
+                    "addressLineOne": null,
+                    "addressLineTwo": null,
+                    "derivedLocation": {
+                        "locationType": null,
+                        "postalAddress": null,
+                        "radiusMiles": null,
+                        "latLng": {
+                            "latitude": null,
+                            "longitude": null
+                        }
+                    }
+                }
+            },
+            {
+                "startDate": "2013-10-01",
+                "endDate": "2016-08-31",
+                "schoolName": "Canadian Univercity",
+                "description": null,
+                "degree": {
+                    "type": "Master or equivalent",
+                    "name": "Associate of Arts degree, Communication",
+                    "fieldsOfStudy": []
+                },
+                "address": {
+                    "regionCode": "CA",
+                    "languageCode": null,
+                    "postalCode": null,
+                    "sortingCode": null,
+                    "administrativeArea": null,
+                    "locality": "",
+                    "sublocality": null,
+                    "addressLineOne": null,
+                    "addressLineTwo": null,
+                    "derivedLocation": {
+                        "locationType": null,
+                        "postalAddress": null,
+                        "radiusMiles": null,
+                        "latLng": {
+                            "latitude": null,
+                            "longitude": null
+                        }
+                    }
+                }
+            },
+            {
+                 "startDate": "",
+                 "endDate": "",
+                 "schoolName": "New York Main IT Univercity",
+                 "description": null,
+                 "degree": {
+                     "type": "Extra Classes",
+                     "name": "Certificate of Data Security",
+                     "fieldsOfStudy": []
+                 },
+                 "address": {
+                     "regionCode": "CA",
+                     "languageCode": null,
+                     "postalCode": null,
+                     "sortingCode": null,
+                     "administrativeArea": null,
+                     "locality": "",
+                     "sublocality": null,
+                     "addressLineOne": null,
+                     "addressLineTwo": null,
+                     "derivedLocation": {
+                         "locationType": null,
+                         "postalAddress": null,
+                         "radiusMiles": null,
+                         "latLng": {
+                             "latitude": null,
+                             "longitude": null
+                         }
+                     }
+                 }
+             }
+        ],
+        "skills": [
+            {
+                "type": "Computer",
+                "displayName": "lamp",
+                "lastUsedDate": null,
+                "level": null,
+                "context": null,
+                "experienceYears": 3,
+                "isValidated": false,
+                "importance": null,
+                "randstadNormalizedSkill": {
+                    "id": null,
+                    "family": null,
+                    "mapping": null
+                }
+            },
+            {
+                "type": "Computer",
+                "displayName": "microsoft sharepoint",
+                "lastUsedDate": null,
+                "level": null,
+                "context": null,
+                "experienceYears": 2,
+                "isValidated": true,
+                "importance": null,
+                "randstadNormalizedSkill": {
+                    "id": null,
+                    "family": null,
+                    "mapping": null
+                }
+            },
+            {
+                "type": "Computer",
+                "displayName": "ibm software",
+                "lastUsedDate": null,
+                "level": null,
+                "context": null,
+                "experienceYears": 1,
+                "isValidated": true,
+                "importance": null,
+                "randstadNormalizedSkill": {
+                    "id": null,
+                    "family": null,
+                    "mapping": null
+                }
+            },
+            {
+                "type": "Organizational",
+                "displayName": "auditing",
+                "lastUsedDate": null,
+                "level": null,
+                "context": null,
+                "experienceYears": 6,
+                "isValidated": true,
+                "importance": null,
+                "randstadNormalizedSkill": {
+                    "id": null,
+                    "family": null,
+                    "mapping": null
+                }
+            },
+            {
+                 "type": "Language",
+                 "displayName": "English",
+                 "lastUsedDate": null,
+                 "level": null,
+                 "context": null,
+                 "experienceYears": 10,
+                 "isValidated": true,
+                 "importance": null,
+                 "randstadNormalizedSkill": {
+                     "id": null,
+                     "family": null,
+                     "mapping": null
+                 }
+             },
+             {
+                 "type": "Language",
+                 "displayName": "Hindi",
+                 "lastUsedDate": null,
+                 "level": null,
+                 "context": null,
+                 "experienceYears": 25,
+                 "isValidated": true,
+                 "importance": null,
+                 "randstadNormalizedSkill": {
+                     "id": null,
+                     "family": null,
+                     "mapping": null
+                 }
+             },
+             {
+                 "type": "Language",
+                 "displayName": "Dutch",
+                 "lastUsedDate": null,
+                 "level": null,
+                 "context": null,
+                 "experienceYears": 4,
+                 "isValidated": true,
+                 "importance": null,
+                 "randstadNormalizedSkill": {
+                     "id": null,
+                     "family": null,
+                     "mapping": null
+                 }
+             }
+        ],
+        "certifications": [
+            {
+                "displayName": null,
+                "authority": null,
+                "description": null,
+                "acquireDate": null,
+                "expireDate": null,
+                "isCurrent": null
+            }
+        ],
+        "enrichment": {
+            "candidateEngagementTime": null,
+            "resumeUpdateTime": null,
+            "likelySkills": [
+                "netscape enterprise server",
+                "process engineering",
+                "database administration",
+                "documentation",
+                "reports"
+            ],
+            "likelyJobTitles": [],
+            "likelyIndustries": [],
+            "likelyClients": [],
+            "likelyAvailable": null,
+            "likelyAvailablePercentage": null,
+            "likelyToRespond": null,
+            "likelyToRespondPercentage": null,
+            "averageTenure": null,
+            "lastPosition": {
+                "title": "force.com developer",
+                "employer": null,
+                "startDate": "2021-2-13",
+                "endDate": null,
+                "description": null
+            }
+        }
+    }
+ }
